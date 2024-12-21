@@ -1,0 +1,1 @@
+作成するdynamodbテーブルは、docker上のdynamodb-localと、アプリケーションで合わせないとテーブルが見つからないので注意
